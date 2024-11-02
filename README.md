@@ -31,3 +31,14 @@ EDA involves answering some questions to create insights. Questions like
 
 ### Data Visualization
 
+
+![NIGERIA MAP BY STATE SEGMENTATION](https://github.com/user-attachments/assets/8c4e4346-ad62-4520-9a25-8030cc190b55)
+
+
+![NIGERIA MAP BY STATES](https://github.com/user-attachments/assets/a145f02d-e2e3-4bc6-88b6-f2371d47796f)
+
+
+
+![ROADMAPS OF GIANT OF AFRICA](https://github.com/user-attachments/assets/dfe283e4-6736-4079-bcfc-cb26f2928067)
+
+
